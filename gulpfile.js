@@ -5,7 +5,7 @@ const {
     series,
     tree
 } = require('gulp');
-const sass = require('gulp-dart-sass');
+const sass = require('gulp-sass');
 const postcss = require('gulp-postcss');
 const cssnano = require('cssnano');
 const autoprefixer = require('autoprefixer');
